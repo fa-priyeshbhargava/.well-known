@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "7C7CZD9B3W.com.tango.mobileapp",
+                "paths": [ "/job_profile/", "/job_profile/*"]
+            },
+            {
+                "appID": "7C7CZD9B3W.com.tango.mobileapp",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+ }
